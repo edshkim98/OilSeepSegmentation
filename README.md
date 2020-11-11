@@ -1,4 +1,6 @@
 # OilSeepSegmentation
+![Oil seep sample](oil_seep.tif)
+
 I used a pre-trained deeplabv3-resnet101 model and then fine tuned it.<br/>
 Loss functions = Focal loss (or weighted cross entropy) + soft dice loss + mean iou loss<br/>
 0.73 IOU for segmentation of 2 classes 
