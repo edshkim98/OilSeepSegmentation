@@ -1,4 +1,4 @@
-# OilSeepSegmentation
+# OilSeepsSegmentation
 ![Oil seep sample](oil_seep.png)
 
 I used a pre-trained deeplabv3-resnet101 model and then fine tuned it.<br/>
